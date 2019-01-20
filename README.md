@@ -1,6 +1,10 @@
-# rows_and_column_in_flutter
+# Rows and Column in Flutter
 
 A new Flutter project.
+this Project Inlclude a File which is devide our Screen Into Logical Row and Column for More Information see the code which is available in Repo!!!
+
+
+* Reach me on twitter  : https://twitter.com/Vral_parmar
 
 ## Getting Started
 
